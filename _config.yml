@@ -1,1 +1,8 @@
-theme: jekyll-theme-minimal
+title: Redrive
+# description:  Ke
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-tactile
+github:
+  zip_url: "https://example.com/download.zip"
+  tar_url: "https://example.com/download.tar.gz"
