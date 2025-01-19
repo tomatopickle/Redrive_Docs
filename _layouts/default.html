@@ -24,8 +24,8 @@
         </header>
         <section id="downloads" class="clearfix">
           {% if site.show_downloads %}
-          <a href="{{ page.github.zip_url }}" id="download-zip" class="button"><span>Download Sever App</span></a>
-          <a href="{{ page.github.tar_url }}" id="download-tar-gz" class="button"><span>Download Client APK</span></a>
+          <a href="{{ site.github.server_url }}" id="download-zip" class="button"><span>Download Sever App</span></a>
+          <a href="{{ site.github.client_url }}" id="download-tar-gz" class="button"><span>Download Client App</span></a>
           {% endif %}
 	{% if site.github.public %}
 	  {% if site.github.is_project_page %}
