@@ -5,4 +5,4 @@ google_analytics:
 theme: jekyll-theme-tactile
 github:
   server_url: "https://github.com/tomatopickle/Redrive_Docs/releases/download/0.1.1/Redrive.Server.zip"
-  client_url: "https://github.com/tomatopickle/Redrive_Docs/releases/download/0.1.1/redrive-release.1.apk"
+  client_url: "https://github.com/tomatopickle/Redrive_Docs/releases/download/0.1.1/redrive-release.apk"
